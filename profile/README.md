@@ -49,9 +49,7 @@ In this task, pilots must serve food and place it on the table.
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/dishup.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/dishup_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Saleh Ebrahimian](https://github.com/salehprg)
-	- [Elham Armin](https://github.com/elhamarmin)
+> **Collaborators** [Saleh Ebrahimian](https://github.com/salehprg) - [Elham Armin](https://github.com/elhamarmin)
 
 ## 2. Doorbell | [GitHub Repository](https://github.com/FUM-Isense/doorbell)
 Finding the right bell on a large doorbell panel is often very demanding for blind people. The confined space, and the variety of name combinations are especially challenging for assistive technologies.
@@ -61,9 +59,7 @@ In this task, pilots must find the correct name on the doorbell panel and ring t
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/doorbell.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/doorbell_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Ali Bokaeian](https://github.com/AliBokaeian)
-	- [Saleh Ebrahimian](https://github.com/salehprg)
+> **Collaborators** [Ali Bokaeian](https://github.com/AliBokaeian) - [Saleh Ebrahimian](https://github.com/salehprg)
 
 ## 3. Empty Seats  | [GitHub Repository](https://github.com/FUM-Isense/emptyseats)
 
@@ -74,10 +70,7 @@ In this task, pilots must identify the empty seats.
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/emptyseats.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/emptyseats_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Ali Bokaeian](https://github.com/AliBokaeian)
-	- [Mohammad Reza Ramezani](https://github.com/redHaunter)
-	- [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
+> **Collaborators** [Ali Bokaeian](https://github.com/AliBokaeian) - [Mohammad Reza Ramezani](https://github.com/redHaunter) - [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
 
 ## 4. Grocery  | [GitHub Repository](https://github.com/FUM-Isense/grocery)
 
@@ -88,9 +81,7 @@ In this task, pilots must find a specific product in the shelf.
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/grocery.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/grocery_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Ali Bokaeian](https://github.com/AliBokaeian)
-	- [Mohammad Reza Ramezani](https://github.com/redHaunter)
+> **Collaborators** [Ali Bokaeian](https://github.com/AliBokaeian) - [Mohammad Reza Ramezani](https://github.com/redHaunter)
 
 ## 5. Sidewalk  | [GitHub Repository](https://github.com/FUM-Isense/forest-sidewalk)
 
@@ -101,9 +92,7 @@ In this task, pilots must negotiate a set of obstacles obstructing their path.
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/sidewalk.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/sidewalk_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Mohammad Reza Ramezani](https://github.com/redHaunter)
-	- [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
+> **Collaborators** [Mohammad Reza Ramezani](https://github.com/redHaunter) - [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
 
 ## 6. Finder  | [GitHub Repository](https://github.com/FUM-Isense/finder)
 
@@ -114,10 +103,7 @@ In this task pilots must locate and grasp a specific object from a group of othe
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/finder.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/finder_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Ali Mojahed](https://github.com/alimojahed)
-	- [Mohammad Reza Ramezani](https://github.com/redHaunter)
-	- [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
+> **Collaborators** [Ali Mojahed](https://github.com/alimojahed) - [Mohammad Reza Ramezani](https://github.com/redHaunter) - [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
 
 ## 7.  Footpath  | [GitHub Repository](https://github.com/FUM-Isense/footpath)
 
@@ -128,9 +114,7 @@ In this task, pilots must follow a path without touching the ground on the side.
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/footpath.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/footpath_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Mohammad Reza Ramezani](https://github.com/redHaunter)
-	- [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
+> **Collaborators** [Mohammad Reza Ramezani](https://github.com/redHaunter) - [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
 
 ## 8. Colours  | [GitHub Repository](https://github.com/FUM-Isense/colours)
 
@@ -141,8 +125,7 @@ In this task, pilots must identify sets of different colours and sort them accor
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/colors.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/colors_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- Maryam Saeedi
+> **Collaborator** Maryam Saeedi
 
 ## 9. Touchscreen  | [GitHub Repository](https://github.com/FUM-Isense/touchscreen)
 
@@ -153,9 +136,7 @@ In this task, pilots must navigate a touchscreen and order a predefined item fro
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/touchscreen.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/touchscreen_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Ali Bokaeian](https://github.com/AliBokaeian)
-	- [Saleh Ebrahimian](https://github.com/salehprg)
+> **Collaborators** [Ali Bokaeian](https://github.com/AliBokaeian) - [Saleh Ebrahimian](https://github.com/salehprg)
 
 ## 10. Forest  | [GitHub Repository](https://github.com/FUM-Isense/forest-sidewalk)
 
@@ -166,6 +147,4 @@ In this task, pilots must navigate through a maze of obstacles which are located
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/forest.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/forest_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborators**
-	- [Mohammad Reza Ramezani](https://github.com/redHaunter)
-	- [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
+> **Collaborators** [Mohammad Reza Ramezani](https://github.com/redHaunter) - [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
