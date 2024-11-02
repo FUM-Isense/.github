@@ -4,7 +4,7 @@
 The Cybathlon, an international competition organized by ETH Zurich, provides a platform for teams worldwide to create assistive technologies that improve daily life for people with disabilities. One of the competition’s disciplines, the [Vision Assistance Race](https://cybathlon.ethz.ch/en/event/disciplines/vis), focuses specifically on solutions for individuals with visual impairments.
 
 As the [iSense team](https://cybathlon.ethz.ch/en/teams/i-sense), we proudly participated in this challenge. You can explore our implementations and learn more about each task here.
-
+<img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/tasks.png?raw=true" width="500" alt="Image 1">
   
 
 # iSense
@@ -34,7 +34,7 @@ Our team is composed of bachelor’s and master’s students from Ferdowsi Unive
 
 - Mohammad Mirghasemi
 
-	![enter image description here](https://github.com/FUM-Isense/.github/blob/main/profile/media/pilots.png?raw=true)
+<img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/pilots.png?raw=true" width="400" alt="Image 1">
     
 # Tasks
 
