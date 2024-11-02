@@ -19,8 +19,6 @@ Our team is composed of bachelor’s and master’s students from Ferdowsi Unive
     
 -   [Ali Bokaeian](https://github.com/AliBokaeian)
     
--   [Saeed Vahdani](https://github.com/SaeedVahdani)
-    
 -   [Saleh Ebrahimian](https://github.com/salehprg)
     
 -   [Elham Armin](https://github.com/elhamarmin)
