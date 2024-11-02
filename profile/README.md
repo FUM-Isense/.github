@@ -5,8 +5,7 @@ The Cybathlon, an international competition organized by ETH Zurich, provides a 
 
 As the [iSense team](https://cybathlon.ethz.ch/en/teams/i-sense), we proudly participated in this challenge. You can explore our implementations and learn more about each task here.
 
-<img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/tasks.png?raw=true" width="500" alt="Image 1">
-  
+<img src="https://cybathlon.ethz.ch/uploads/teams/2024/10/29/5526/image-thumb__5526__team-detail__banner/IMG_97711.jpg" width="700" alt="Image 1">
 
 # iSense
 
@@ -40,6 +39,8 @@ Our team is composed of bachelor’s and master’s students from Ferdowsi Unive
 # Tasks
 
 The competition tasks are inspired by everyday challenges encountered by individuals with visual impairments.
+
+<img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/tasks.png?raw=true" width="500" alt="Image 1">
 
 ## 1. Dishup | [GitHub Repository](https://github.com/FUM-Isense/dishup)
 
