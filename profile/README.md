@@ -125,7 +125,7 @@ In this task, pilots must identify sets of different colours and sort them accor
 | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/colors.jpg?raw=true" width="250" alt="Image 1"> | <img src="https://github.com/FUM-Isense/.github/blob/main/profile/media/colors_model.png?raw=true" height="280" alt="Image 2"> |
 |------------------------|------------------------|
 
-> **Collaborator** [Maryam Saeedi](https://github.com/maryam-saeedi)
+> **Collaborator** [Maryam Saeedi](https://github.com/maryam-saeedi) - [Kimia Mahdinezhad](https://github.com/kimia-mahdinezhad)
 
 ## 9. Touchscreen  | [GitHub Repository](https://github.com/FUM-Isense/touchscreen)
 
