@@ -11,7 +11,7 @@ As the [iSense team](https://cybathlon.ethz.ch/en/teams/i-sense), we proudly par
 
 Our team is composed of bachelor’s and master’s students from Ferdowsi University of Mashhad, with members specializing in Computer and Mechanical Engineering.
 
-**Team Members**
+**Vision Team**
 
 -   [Mohammad Reza Ramezani](https://github.com/redHaunter)
     
